@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>redisgeek</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on redisgeek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2021 15:07:03 -0600</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 20 Feb 2021 15:07:03 -0600</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This is just a website to share live examples of the projects in the Redis Geek Github Org
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Redis Geek</title>
+      <link>/post/redisgeek-0001/</link>
+      <pubDate>Sat, 20 Feb 2021 15:07:03 -0600</pubDate>
+      
+      <guid>/post/redisgeek-0001/</guid>
+      <description>
+        
+          &lt;img src=&#34;/img/redis-logo.svg&#34;/&gt;
+          
+        
+        
+        
+          Do you like Redis?  So do I!
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
